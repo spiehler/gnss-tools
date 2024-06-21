@@ -37,3 +37,11 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### Create PWA assets
+
+Create a pwa-assets.config.ts file and run the command
+
+```sh
+npx pwa-assets-generator
+```
